@@ -1,1 +1,1 @@
-# Databricks_Lakehouse_Fundamentals
+# Databricks Lakehouse Fundamentals
